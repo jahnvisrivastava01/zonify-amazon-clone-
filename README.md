@@ -1,16 +1,26 @@
-# React + Vite
+🛍️ Zonify – Amazon Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive Amazon-inspired e-commerce frontend built using React, Vite, and Tailwind CSS.
+Zonify provides a smooth shopping experience with product browsing, detailed views, and cart functionality.
 
-Currently, two official plugins are available:
+🚀 Features
+🏠 Home Page – Clean UI with product listings
+🛒 Cart System – Add/remove products dynamically
+🔍 Product Details Page – View complete product info
+⚡ Fast Performance – Powered by Vite
+📱 Responsive Design – Works on mobile, tablet, and desktop
+🎨 Modern UI – Styled using Tailwind CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠️ Tech Stack
+⚛️ React
+⚡ Vite
+🎨 Tailwind CSS
+📦 JavaScript (ES6+)
 
-## React Compiler
+🌟 Future Improvements
+🔐 User Authentication
+💳 Payment Integration
+🌐 Backend Integration (Firebase / Node.js)
+❤️ Wishlist Feature
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Inspired by Amazon UI for learning and development purposes.
