@@ -1,0 +1,204 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Apple MacBook Air 15″ Laptop with M3 chip, 16GB RAM, 512GB SSD",
+      "price": 145590,
+      "quality": 1,
+      "category": "Electronics",
+      "imageUrl": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=600&q=80"
+    },
+    {
+      "id": "2",
+      "name": "Samsung Galaxy S24 Ultra 5G Smartphone",
+      "price": 128999,
+      "quality": 1,
+      "category": "Electronics",
+      "imageUrl": "https://m.media-amazon.com/images/I/71Nwtop9jtL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Sony WH-1000XM5 Wireless Noise Cancelling Headphones",
+      "price": 29990,
+      "quality": 1,
+      "category": "Accessories",
+      "imageUrl": "https://m.media-amazon.com/images/I/61GpzGjfZDL._SY355_.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Apple Watch Series 9 (GPS, 41mm)",
+      "price": 41900,
+      "quality": 1,
+      "category": "Accessories",
+      "imageUrl": "https://m.media-amazon.com/images/I/61I431q8rhL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Canon EOS R50 Mirrorless Camera with 18–45mm Lens",
+      "price": 74990,
+      "quality": 1,
+      "category": "Electronics",
+      "imageUrl": "https://m.media-amazon.com/images/I/81LskAU5h1L._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Men’s Classic Fit Denim Jacket",
+      "price": 2899,
+      "quality": 1,
+      "category": "Fashion",
+      "imageUrl": "https://m.media-amazon.com/images/I/71uDpC050YL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Women’s Floral Summer Dress",
+      "price": 1999,
+      "quality": 1,
+      "category": "Fashion",
+      "imageUrl": "https://m.media-amazon.com/images/I/61jrrMmAfPL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Unisex White Sneakers",
+      "price": 2499,
+      "quality": 1,
+      "category": "Fashion",
+      "imageUrl": "https://m.media-amazon.com/images/I/51Bs7gU-ibL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Elegant Leather Handbag",
+      "price": 3499,
+      "quality": 1,
+      "category": "Fashion",
+      "imageUrl": "https://m.media-amazon.com/images/I/71DIESJQaZL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Analog Wooden Wall Clock",
+      "price": 1599,
+      "quality": 1,
+      "category": "Home & Kitchen",
+      "imageUrl": "https://m.media-amazon.com/images/I/61fZAGPLj4L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "11",
+      "name": "White Wall Clock",
+      "price": 1299,
+      "quality": 1,
+      "category": "Home & Kitchen",
+      "imageUrl": "https://m.media-amazon.com/images/I/61fZAGPLj4L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "12",
+      "name": "Stainless Steel Water Bottle (1L)",
+      "price": 699,
+      "quality": 1,
+      "category": "Home & Kitchen",
+      "imageUrl": "https://m.media-amazon.com/images/I/51QMjWwTooL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "13",
+      "name": " Water Bottle (1L)",
+      "price": 399,
+      "quality": 1,
+      "category": "Home & Kitchen",
+      "imageUrl": "https://m.media-amazon.com/images/I/51QMjWwTooL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "14",
+      "name": "Organic Honey 500g Jar",
+      "price": 349,
+      "quality": 1,
+      "category": "Grocery",
+      "imageUrl": "https://m.media-amazon.com/images/I/51k73LYVW9L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "15",
+      "name": "Whole Wheat Bread Loaf (400g)",
+      "price": 79,
+      "quality": 1,
+      "category": "Grocery",
+      "imageUrl": "https://m.media-amazon.com/images/I/71UHc7TlJkL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "16",
+      "name": "Fresh Organic Apples (1kg)",
+      "price": 189,
+      "quality": 1,
+      "category": "Grocery",
+      "imageUrl": "https://m.media-amazon.com/images/I/41Kx2y520nL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "17",
+      "name": "Basmati Rice Premium 5kg",
+      "price": 499,
+      "quality": 1,
+      "category": "Grocery",
+      "imageUrl": "https://m.media-amazon.com/images/I/61bWrU50A6L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "18",
+      "name": "Nescafé Instant Coffee (200g Jar)",
+      "price": 299,
+      "quality": 1,
+      "category": "Grocery",
+      "imageUrl": "https://m.media-amazon.com/images/I/71OexQTz4-L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "19",
+      "name": "Maybelline Liquid Lipstick",
+      "price": 599,
+      "quality": 1,
+      "category": "Beauty",
+      "imageUrl": "https://m.media-amazon.com/images/I/41J+mcf+HML._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "20",
+      "name": "L’Oréal Paris Hair Serum",
+      "price": 799,
+      "quality": 1,
+      "category": "Beauty",
+      "imageUrl": "https://m.media-amazon.com/images/I/51E1dg+wxuL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "21",
+      "name": "Neutrogena Face Wash 150ml",
+      "price": 399,
+      "quality": 1,
+      "category": "Beauty",
+      "imageUrl": "https://m.media-amazon.com/images/I/51Op4OFbTwL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "22",
+      "name": "Face Wash 150ml",
+      "price": 399,
+      "quality": 1,
+      "category": "Beauty",
+      "imageUrl": "https://m.media-amazon.com/images/I/51Op4OFbTwL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "23",
+      "name": "HP Wireless Keyboard and Mouse Combo",
+      "price": 1899,
+      "quality": 1,
+      "category": "Electronics",
+      "imageUrl": "https://m.media-amazon.com/images/I/61x3nRatR9L._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "24",
+      "name": "Dell Wireless Keyboard and Mouse Combo",
+      "price": 1999,
+      "quality": 1,
+      "category": "Electronics",
+      "imageUrl": "https://m.media-amazon.com/images/I/61x3nRatR9L._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "25",
+      "name": "Bluetooth Portable Speaker",
+      "price": 2499,
+      "quality": 1,
+      "category": "Electronics",
+      "imageUrl": "https://m.media-amazon.com/images/I/71RC6skmHML._AC_UY327_FMwebp_QL65_.jpg"
+    }
+  ]
+}

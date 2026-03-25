@@ -1,0 +1,437 @@
+.productPage {
+    width: 100%;
+}
+
+.productTopBanner {
+    display: flex;
+    background: linear-gradient(135deg, #232f3e 0%, #37475a 100%);
+    height: 60px;
+    padding: 0 20px;
+    gap: 30px;
+    align-items: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.productTopBannerItems {
+    padding: 0 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    border-radius: 4px;
+    height: 36px;
+}
+
+.productTopBannerItems:hover {
+    background: rgba(255, 255, 255, 0.1);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.productTopBannerItemsSubMenu {
+    display: flex;
+    padding: 0 16px;
+    justify-content: center;
+    align-items: center;
+    font-size: 13px;
+    font-weight: 400;
+    cursor: pointer;
+    color: #e3e6e6;
+    transition: all 0.3s ease;
+    height: 32px;
+    border-radius: 4px;
+}
+
+.productTopBannerItemsSubMenu:hover {
+    background: rgba(255, 255, 255, 0.08);
+    color: white;
+    text-decoration: none;
+}
+
+.productsPageMain {
+    display: flex;
+    padding: 24px 16px;
+    gap: 24px;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.productsPageMainLeftCategory {
+    width: 280px;
+    background: white;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    border: 1px solid #e1e5e9;
+    height: fit-content;
+    position: sticky;
+    top: 80px;
+}
+
+.productsPageMainLeftCategoryTitle {
+    font-size: 18px;
+    font-weight: 700;
+    color: #1a1a1a;
+    margin-bottom: 16px;
+    padding-bottom: 12px;
+    border-bottom: 2px solid #febd69;
+}
+
+.productsPageMainLeftCategoryContent {
+    margin-top: 16px;
+    font-size: 14px;
+    gap: 16px;
+    display: flex;
+    flex-direction: column;
+}
+
+.productsPageMainLeftCategoryContentSub {
+    font-weight: 600;
+    font-size: 15px;
+    color: #2d2d2d;
+    margin-bottom: 8px;
+}
+
+.ratingLeftBox {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 12px;
+    border-radius: 6px;
+    transition: background-color 0.2s ease;
+    cursor: pointer;
+}
+
+.ratingLeftBox:hover {
+    background: #f8f9fa;
+}
+
+.andUp {
+    font-size: 13px;
+    font-weight: 400;
+    color: #565959;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.label {
+    font-weight: 400;
+    margin-left: 8px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    padding: 6px 0;
+    transition: color 0.2s ease;
+}
+
+.label:hover {
+    color: #007185;
+}
+
+.productPageMainLeftCategoryContentSub {
+    font-weight: 600;
+    color: #2d2d2d;
+}
+
+.css-cfd5wn-MuiListItem-root {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    position: relative;
+    width: 100%;
+    box-sizing: border-box;
+    text-align: left;
+    padding: 8px 0 !important;
+    font-size: 14px !important;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+}
+
+.productsPageMainRight {
+    flex: 1;
+    padding: 0;
+}
+
+.productsPageMainRightTopBanner {
+    width: 100%;
+    background: linear-gradient(135deg, #fff8e1 0%, #fff 100%);
+    border: 1px solid #ffd699;
+    box-sizing: border-box;
+    margin: 0 0 24px 0;
+    padding: 16px 24px;
+    border-radius: 8px;
+    font-size: 14px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.productsPageMainRightTopBannerSpan {
+    color: #c45500;
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.itemsImageProductPage {
+    width: 100%;
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+}
+
+.itemsImageProductPageOne {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    border-radius: 12px;
+    box-sizing: border-box;
+    height: auto;
+    background: white;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+    border: 1px solid #e1e5e9;
+    transition: all 0.3s ease;
+    overflow: hidden;
+}
+
+.itemsImageProductPageOne:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+    border-color: #febd69;
+}
+
+.imgBlockitemsImageProductpageOne {
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+    align-items: center;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: rgb(247,247,247);
+    padding: 20px;
+    height: 320px;
+}
+
+/* KEEPING THE ORIGINAL IMAGE STYLING AS REQUESTED */
+.productImageProduct {
+    width: 110%;
+    height: 280px;
+}
+
+.productNameProduct {
+    padding: 20px;
+    border: 1px solid #efeeee;
+    border-top: none;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.productNameProductRating {
+    display: flex;
+    margin: 12px 0;
+    align-items: center;
+    gap: 8px;
+}
+
+.priceProductDetailPage {
+    display: flex;
+    align-items: baseline;
+    gap: 4px;
+    margin: 8px 0;
+}
+
+.currencyText {
+    font-size: 14px;
+    color: #565959;
+    font-weight: 500;
+}
+
+.rateHomeDetail {
+    font-size: 24px;
+    font-weight: 700;
+    color: #b12704;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    margin: 8px 0;
+}
+
+.originalPrice {
+    font-size: 14px;
+    color: #565959;
+    text-decoration: line-through;
+    margin-left: 8px;
+}
+
+.discountBadge {
+    background: linear-gradient(135deg, #ff4444 0%, #cc0000 100%);
+    color: white;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.addtobasketBtn {
+    display: flex;
+    background: linear-gradient(135deg, #ffd814 0%, #f7ca00 100%);
+    width: 100%;
+    font-size: 14px;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    border: none;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    margin-top: 12px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    color: #0f1111;
+}
+
+.addtobasketBtn:hover {
+    background: linear-gradient(135deg, #f7ca00 0%, #e6b800 100%);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+.offProductPage {
+    color: #007600;
+    font-weight: 500;
+    padding: 4px 0;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.freeDelivery {
+    font-weight: 500;
+    margin-top: 8px;
+    padding: 4px 0;
+    color: #565959;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+/* New enhanced elements */
+.productBadges {
+    display: flex;
+    gap: 8px;
+    margin: 8px 0;
+}
+
+.badge {
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.badgePrime {
+    background: #00a8e1;
+    color: white;
+}
+
+.badgeBestseller {
+    background: #ffa41c;
+    color: #0f1111;
+}
+
+.badgeNew {
+    background: #007185;
+    color: white;
+}
+
+.ratingStars {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.star {
+    color: #ffa41c;
+    font-size: 16px;
+}
+
+.ratingCount {
+    color: #007185;
+    font-size: 13px;
+    margin-left: 4px;
+}
+
+.quickActions {
+    display: flex;
+    gap: 12px;
+    margin-top: 12px;
+    padding-top: 12px;
+    border-top: 1px solid #f0f0f0;
+}
+
+.quickActionBtn {
+    padding: 6px 12px;
+    border: 1px solid #d5d9d9;
+    border-radius: 6px;
+    background: white;
+    cursor: pointer;
+    font-size: 12px;
+    transition: all 0.2s ease;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.quickActionBtn:hover {
+    background: #f0f2f2;
+    border-color: #a6a6a6;
+}
+
+/* Responsive Design */
+@media (max-width: 1200px) {
+    .productsPageMain {
+        flex-direction: column;
+    }
+    
+    .productsPageMainLeftCategory {
+        width: 100%;
+        position: static;
+    }
+    
+    .itemsImageProductPage {
+        grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    }
+}
+
+@media (max-width: 768px) {
+    .productTopBanner {
+        overflow-x: auto;
+        padding: 0 12px;
+        gap: 16px;
+    }
+    
+    .productTopBannerItems,
+    .productTopBannerItemsSubMenu {
+        white-space: nowrap;
+        font-size: 13px;
+        padding: 0 12px;
+    }
+    
+    .productsPageMain {
+        padding: 16px 12px;
+    }
+    
+    .itemsImageProductPage {
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        gap: 16px;
+    }
+}

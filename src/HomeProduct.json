@@ -1,0 +1,151 @@
+{
+  "product": [
+    {
+      "itemTitle": "Revamp your home in style",
+      "imgs": [
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/New/1x/final/186x116_Home_furnishings_2._SY116_CB555624324_.jpg",
+          "imgTitle": "Home furnishings"
+        },
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/New/1x/final/186x116_Home_decor_1._SY116_CB555624324_.jpg",
+          "imgTitle": "Home decor"
+        },
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/New/1x/final/186x116_Home_storage_1._SY116_CB555624324_.jpg",
+          "imgTitle": "Home storage"
+        },
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/New/1x/final/186x116_Home_lighting_2._SY116_CB555624324_.jpg",
+          "imgTitle": "Home lighting"
+        }
+      ]
+    },
+    {
+      "itemTitle": "Appliances for your home | Up to 55% off",
+      "imgs": [
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/Appliances-QC-PC-186x116--B08RDL6H79._SY116_CB667322346_.jpg",
+          "imgTitle": "Refrigerators"
+        },
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/Appliances-QC-PC-186x116--B08345R1ZW._SY116_CB667322346_.jpg",
+          "imgTitle": "Washing Machines"
+        },
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/Appliances-QC-PC-186x116--B07G5J5FYP._SY116_CB667322346_.jpg",
+          "imgTitle": "Microwaves"
+        },
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/186x116---wm._SY116_CB667322346_.jpg",
+          "imgTitle": "Water purifiers"
+        }
+      ]
+    },
+    {
+      "itemTitle": "Starting ₹149 | Headphones",
+      "imgs": [
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/june/CE/GW/QC/PC/PC_QuadCard_boAt_0.5x._SY116_CB553870684_.jpg",
+          "imgTitle": "boAt Headphones"
+        },
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/G/31/LEO/Jupiterminievent/Ends_today_PC_NTA_3000x1200._CB797278030_.jpg",
+          "imgTitle": "Limited offers"
+        },
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/june/CE/GW/QC/PC/PC_QuadCard_Noise_0.5x._SY116_CB553870684_.jpg",
+          "imgTitle": "Noise Headphones"
+        },
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/june/CE/MSO/PD3/PC_QuadCard_Zeb_0.5x_1._SY116_CB570220221_.jpg",
+          "imgTitle": "Zebronics Headphones"
+        }
+      ]
+    },
+    {
+      "itemTitle": "Under ₹499 | Deals on home improvement essentials",
+      "imgs": [
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/G/31/img18/HomeImprovement/harsmisc/2025/March/Wipes_low_res_V1._SY116_CB549138744_.jpg",
+          "imgTitle": "Cleaning wipes"
+        },
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/G/31/img18/HomeImprovement/harsmisc/2025/March/Shower_heads_low_res_V1._SY116_CB549138744_.jpg",
+          "imgTitle": "Shower heads"
+        },
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/G/31/img18/HomeImprovement/harsmisc/2025/March/Tools_low_res_V1._SY116_CB549138744_.jpg",
+          "imgTitle": "Tools"
+        },
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/G/31/img18/HomeImprovement/harsmisc/2025/March/Wallpapers_low_res_V1._SY116_CB549138744_.jpg",
+          "imgTitle": "Wallpapers"
+        }
+      ]
+    },
+    {
+      "itemTitle": "Up to 50% off | Baby care & toys | Zonify Brands",
+      "imgs": [
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/G/31/PB/GW/PC/PC_QC_372x232_Life-Style_2_1x._SY116_CB788857785_.jpg",
+          "imgTitle": "Toys & Games"
+        },
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/G/31/PB/GW/PC/PC_QC_372x232_Life-Style_1_1x._SY116_CB788857785_.jpg",
+          "imgTitle": "Baby care essentials"
+        },
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/G/31/PB/GW/PC/PC_QC_372x232_Life-Style_3_1x._SY116_CB788857785_.jpg",
+          "imgTitle": "Soft toys"
+        },
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/G/31/PB/GW/PC/PC_QC_372x232_Life-Style_4_1x._SY116_CB788857785_.jpg",
+          "imgTitle": "Kids fashion"
+        }
+      ]
+    },
+    {
+      "itemTitle": "Automotive essentials | Up to 60% off",
+      "imgs": [
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/G/31/img17/Auto/2020/GW/PCQC/Glasscare1X._SY116_CB410830553_.jpg",
+          "imgTitle": "Glass care"
+        },
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/G/31/img17/Auto/2020/GW/PCQC/Rim_tyrecare1x._SY116_CB410830552_.jpg",
+          "imgTitle": "Tyre & rim care"
+        },
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/G/31/img17/Auto/2020/GW/PCQC/Vega_helmet_186x116._SY116_CB405090404_.jpg",
+          "imgTitle": "Helmets"
+        },
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/G/31/img17/Auto/2020/GW/PCQC/Vaccum1x._SY116_CB410830552_.jpg",
+          "imgTitle": "Vacuum cleaners"
+        }
+      ]
+    },
+    {
+      "itemTitle": "Starting ₹199 | Zonify Brands & more",
+      "imgs": [
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/PB/March/Bikram/PC_QC_HOME_SIZE_186_2._SY116_CB567468236_.jpg",
+          "imgTitle": "Home decor"
+        },
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/PB/March/Bikram/PC_QC_HOME_SIZE_186_3._SY116_CB567468236_.jpg",
+          "imgTitle": "Furniture"
+        },
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/PB/March/Bikram/PC_QC_HOME_SIZE_186_4._SY116_CB567468236_.jpg",
+          "imgTitle": "Kitchen essentials"
+        },
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/PB/March/Bikram/PC_QC_HOME_SIZE_186_1._SY116_CB567468236_.jpg",
+          "imgTitle": "Storage solutions"
+        }
+      ]
+    }
+  ]
+}

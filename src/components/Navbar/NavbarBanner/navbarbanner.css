@@ -1,0 +1,147 @@
+.navbarbanner{
+    background-color: #232f3e;
+    display: flex;
+    padding: 0 0 0 11px;
+    height:40px;
+    justify-content: space-between;
+    color:white;
+
+}
+
+.navbarBannerOptionsLeft{
+    display: flex;
+}
+
+.optionsNavBarBanner{
+    display:flex;
+    padding: 4px 6px;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+    align-items: center;
+    cursor:pointer;
+}
+
+
+.allOptionsNavbarBanner{
+    font-size: 12.5px;
+    padding-left: 10px;
+    font-weight: 500;
+}
+
+
+.navbarbanner {
+  background-color: #232f3e;
+  display: flex;
+  align-items: center;
+  color: white;
+  height: 40px;
+  padding: 0 20px;
+  position: relative;
+}
+
+.navbarBannerOptionsLeft {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.optionsNavBarBanner {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  font-size: 14px;
+  text-decoration: none;
+  color: white;
+}
+
+.allOptionsNavbarBanner {
+  margin-left: 5px;
+}
+
+.optionsNavBarBanner:hover {
+  color: #febd69;
+  outline: none !important;
+  border: none;
+  text-decoration: none;
+}
+
+/* 🧱 SIDE MENU PANEL */
+.sideMenu {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 280px;
+  height: 100vh;
+  background-color: white;
+  color: black;
+  box-shadow: 2px 0px 10px rgba(0,0,0,0.3);
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  animation: slideIn 0.3s ease forwards;
+}
+
+@keyframes slideIn {
+  from { transform: translateX(-100%); }
+  to { transform: translateX(0); }
+}
+
+/* Overlay behind side menu */
+.menuOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.5);
+  z-index: 999;
+}
+
+/* Header of side menu */
+.sideMenuHeader {
+  padding: 15px;
+  border-bottom: 1px solid #ddd;
+  position: relative;
+}
+
+.sideMenuHeader p {
+  font-weight: 700;
+  font-size: 18px;
+  margin-bottom: 6px;
+}
+
+.menuLink {
+  color: #007185;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.menuLink:hover {
+  text-decoration: underline;
+}
+
+/* Close (X) button */
+.closeMenuIcon {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  cursor: pointer;
+  color: #333;
+}
+
+/* Menu items list */
+.sideMenuOptions {
+  padding: 10px 15px;
+}
+
+.sideMenuItem {
+  padding: 10px 0;
+  border-bottom: 1px solid #eee;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.sideMenuItem:hover {
+  background-color: #f2f2f2;
+}
