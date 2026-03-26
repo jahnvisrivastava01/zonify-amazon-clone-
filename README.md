@@ -4,7 +4,7 @@ A modern, responsive **Amazon-inspired e-commerce frontend** built using **React
 Zonify delivers a seamless shopping experience with fast performance, clean UI, and dynamic cart functionality.
 
 ---
----
+
 
 ## ✨ Features
 
@@ -62,12 +62,6 @@ Zonify delivers a seamless shopping experience with fast performance, clean UI, 
 ## 📌 Inspiration
 
 This project is inspired by the UI/UX of Amazon and is built for **learning and development purposes only**.
-
----
-
-## 👩‍💻 Author
-
-**Jahnvi Srivastava**
 
 ---
 
