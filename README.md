@@ -37,8 +37,6 @@ Zonify delivers a seamless shopping experience with fast performance, clean UI, 
 
 ---
 
----
-
 ## 🌟 Future Improvements
 
 * 🔐 User Authentication (Login / Signup)
